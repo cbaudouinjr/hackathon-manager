@@ -1,3 +1,0 @@
-staff_weekly_report:
-  cron: '0 8 * * MON'
-  class: 'StaffWeeklyReportJob'
